@@ -22,6 +22,16 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/kailanyguedes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
 </p>
+## Olá, eu sou a Kailany Guedes! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" />
+
+### Sobre mim
+
+<img align="right" src="https://media.tenor.com/4DYoO66WKhIAAAAC/spiderman-andrew-garfield.gif" width="250" alt="Andrew Garfield gif" />
+
+
+- 👩‍💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
+- 📚 Sempre buscando aprender mais sobre o mundo da tecnologia e suas infinitas possibilidades  
+- 💡 Interesses: **HTML**, **CSS**, **JavaScript**, **Git**, **GitHub**, **lógica de programação**, **criação de sites** e muito mais!
 
 ## Minhas Skills 💻
 #### Desenvolvimento
