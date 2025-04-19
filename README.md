@@ -70,3 +70,32 @@
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-000?style=for-the-badge&logo=openai)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=visualstudiocode)
+
+
+<details>
+  <summary><b>📊 Meus stats do GitHub</b></summary>
+
+| GitHub Stats | Streaks |
+|--------------|---------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kailanyguedes&theme=radical&hide_border=true&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kailanyguedes&theme=radical&hide_border=true) |
+
+| Linguagens Mais Usadas | Cartão do Perfil |
+|------------------------|------------------|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kailanyguedes&theme=radical&hide_border=true&layout=compact) | ![GitHub Profile Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kailanyguedes&theme=radical) |
+
+</details>
+
+---
+
+### 🐍 Snake comendo meus commits!
+
+![snake gif](https://github.com/kailanyguedes/kailanyguedes/blob/output/github-contribution-grid-snake.gif)
+
+---
+
+<img
+  width="100%"
+  alt="Rainbow"
+  src="assets/Rainbow.gif"
+/>
+
