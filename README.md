@@ -26,7 +26,8 @@
 
 ### Sobre mim
 
-<img align="right" src="https://media.tenor.com/4DYoO66WKhIAAAAC/spiderman-andrew-garfield.gif" width="250" alt="Andrew Garfield gif" />
+<img align="right" src="spidemangif..gif" width="250" alt="spidemangif..gif" />
+
 
 
 - 👩‍💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
