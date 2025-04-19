@@ -4,8 +4,12 @@
   <img alt="Kailany Guedes Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailanyguedes&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="45%"/>
 </a>
 
-<br/>
-<b>Nota:</b> As principais linguagens são apenas uma métrica das linguagens usadas nos projetos que foram publicados, não implicando diretamente na minha experiência e/ou nível de habilidade.
+<div> 
+  
+  <a href="https://www.instagram.com/_kailanyguedes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+  <a href = "kailany123hot@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kailany-g-a68215220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <hr />
 
