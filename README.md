@@ -25,19 +25,28 @@
 ## Olá, eu sou a Kailany Guedes! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" />
 
 ### Sobre mim
-
-<img align="right" src="spidemangif..gif" width="250" alt="spidemangif..gif" />
-
-
-
-- 👩‍💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
+- 👩‍💻 Estudante de **Análise e Desenvolvimento de Sistemas (3 semestre)**  
 - 📚 Sempre buscando aprender mais sobre o mundo da tecnologia e suas infinitas possibilidades  
-- 💡 Interesses: **HTML**, **CSS**, **JavaScript**, **Git**, **GitHub**, **lógica de programação**, **criação de sites** e muito mais!
+- 💡 Interesses: **HTML**, **CSS**, **JavaScript**, **Git**, **GitHub**,**SQL**, **Manutençao**, **Infraestrutura** **lógica de programação**, **criação de sites**.
+
+<p align="center">
+  <img src="spidemangif..gif" width="400" alt="Spider-Man GIF" />
+</p>
+
+
 
 ## Minhas Skills 💻
 #### Desenvolvimento
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=02A9FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)
+
+#### Outras Skills Técnicas
+![Manutenção de Computadores](https://img.shields.io/badge/Manutenção%20de%20PCs-000?style=for-the-badge&logo=windows)
+![Infraestrutura](https://img.shields.io/badge/Infraestrutura%20de%20TI-000?style=for-the-badge&logo=linux)
+![Segurança da Informação](https://img.shields.io/badge/Segurança%20da%20Informação-000?style=for-the-badge&logo=security)
 
 #### Repositório
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
@@ -47,13 +56,17 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=cian)
 ![Adobe Lightroom](https://img.shields.io/badge/Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)
 
+#### Ediçao de video
+![After Effects](https://img.shields.io/badge/-After%20Effects-000?style=for-the-badge&logo=adobeaftereffects)
+![CapCut](https://img.shields.io/badge/-CapCut-000?style=for-the-badge&logo=capcut)
+![Alight Motion](https://img.shields.io/badge/-Alight%20Motion-000?style=for-the-badge&logo=)
+![Video Star](https://img.shields.io/badge/-Video%20Star-000?style=for-the-badge&logo=)
+#### Soft Skills
+![Aprendizado Contínuo](https://img.shields.io/badge/Aprendizado%20Contínuo-000?style=for-the-badge&logo=opsgenie)
+![Trabalho em Equipe](https://img.shields.io/badge/Trabalho%20em%20Equipe-000?style=for-the-badge&logo=teams)
+![Comunicação](https://img.shields.io/badge/Comunicação-000?style=for-the-badge&logo=googlemeet)
+
 #### Ferramentas Online
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
-
-## Estatísticas do Github 📊
-
-<details>
-  <summary>⚡ Atividades Recentes</summary>
-  <br/>
-  <a href="https://github.com/kailanyguedes">
-  
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-000?style=for-the-badge&logo=openai)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=visualstudiocode)
